@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shohoz Movie</string>
+    <string name="confirm_string">Confirm</string>
+    <string name="no_internet">Please Connect To Internet</string>
+    <string name="no_data">No Data Available</string>
+    <string name="something_went_wrong">Can Not Connect With Server</string>
+</resources>

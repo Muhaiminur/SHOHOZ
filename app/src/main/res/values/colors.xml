@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+
+    <!-- app color -->
+
+    <color name="app_ash1">#708090</color>
+    <color name="app_black1">#0C0C0C</color>
+    <color name="app_black2">#000000</color>
+
+    <color name="colorPrimaryDark">@color/app_black1</color>
+    <color name="colorPrimary">@color/app_black1</color>
+    <color name="colorOnPrimary">@color/app_red1</color>
+    <color name="colorSurface">#ffffff</color>
+    <color name="colorBackgound">#f4f4f4</color>
+
+    <color name="colorRed">#EF4236</color>
+
+    <color name="app_blue1">#98A3FE</color>
+    <color name="app_red1">#9D081B</color>
+    <color name="app_white1">#fafafa</color>
+</resources>

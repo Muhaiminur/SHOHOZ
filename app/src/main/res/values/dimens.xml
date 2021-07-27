@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font_xxl">15sp</dimen>
+    <dimen name="font_xxxl">16sp</dimen>
+    <dimen name="font_big">20sp</dimen>
+    <dimen name="font_extreme">24sp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+</resources>

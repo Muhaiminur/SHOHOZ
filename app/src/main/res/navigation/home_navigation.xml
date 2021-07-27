@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/movielistpage">
+
+    <fragment
+        android:id="@+id/movielistpage"
+        android:name="com.muhaiminur.shohozmovie.view.fragment.MovielistPage"
+        tools:layout="@layout/movielist_page_fragment" />
+    <fragment
+        android:id="@+id/moviedetailspage"
+        android:name="com.muhaiminur.shohozmovie.view.fragment.MoviedetailsPage"
+        tools:layout="@layout/moviedetails_page_fragment" />
+
+</navigation>
